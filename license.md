@@ -32,7 +32,8 @@
 </div>
 
 <div align="center">
-  <img width="720" height="405" alt="Knuth Algorithm X Solver" src="https://github.com/user-attachments/assets/knuth-algorithm-x-solver-banner" />
+  <img width="1667" height="943" alt="0de448a0-8376-4f33-b670-64e8376396a5" src="https://github.com/user-attachments/assets/d34ba0c9-47ab-42dc-a1a1-81b8f633e9bc" />
+
 </div>
 
 ---
